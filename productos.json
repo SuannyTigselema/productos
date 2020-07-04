@@ -1,0 +1,81 @@
+{
+	"producto": [
+		{
+			"nombre":"tomate",
+			"descripcion":"rinon",
+			"unidad":"lb.",
+			"precio":"0,50",
+			"imagen":"https://static.vix.com/es/sites/default/files/styles/large/public/imj/vivirsalud/B/Beneficios-del-tomate-un-super-alimento-4.jpg"
+	},
+{
+	"nombre":"cebolla",
+	"descripcion":"perla",
+	"unidad":"lb.",
+	"precio":"0,60",
+	"imagen":"https://www.natursan.net/wp-content/cebollas-2.jpg"
+},
+{
+	"nombre":"limon",
+	"descripcion":"mandarina",
+	"unidad":"20 unidades",
+	"precio":"1,00",
+	"imagen":"https://www.barufresh.com/wp-content/uploads/2020/03/limon-mandarina.jpg"
+},
+{
+	"nombre":"guineo",
+	"descripcion":"de seda",
+	"unidad":"gajo",
+	"precio":"0,25",
+	"imagen":"https://svtienda.com/wp-content/uploads/2020/03/Guineo-de-Seda-Gajo-2-263x300.jpg"
+},
+{
+	"nombre":"verde",
+	"descripcion":"harton",
+	"unidad":"gajo",
+	"precio":"0,50",
+	"imagen":"https://www.winay.com.ar/sitio/wp-content/uploads/2014/11/platano_verde.jpg"
+},
+{
+	"nombre":"lechuga",
+	"descripcion":" ",
+	"unidad":"1 unidad",
+	"precio":"0,20",
+	"imagen":"https://www.frutasramirez.com/wp-content/uploads/2015/09/distribucionlechuga-iceberg-frutas-ramirez.jpg"
+},
+{
+	"nombre":"pimiento",
+	"descripcion":"verde",
+	"unidad":"lb.",
+	"precio":"0,40",
+	"imagen":"https://fincapriscila.com/wp-content/uploads/2019/01/pimiento-california-verde.jpg"
+},
+{
+	"nombre":"papa",
+	"descripcion":"chola",
+	"unidad":"lb.",
+	"precio":"0,50",
+	"imagen":"https://openfoods.com.ec/images/vegetales/papachola.jpg"
+},
+{
+	"nombre":"zanahoria",
+	"descripcion":"roja",
+	"unidad":"lb.",
+	"precio":"0,25",
+	"imagen":"https://www.sinavimo.gov.ar/sites/default/files/cultivo/imagenes/n_zanahoria_t_producto_m_636128990215965811_f_zanahoria.jpg"
+},
+{
+	"nombre":"frejol",
+	"descripcion":"de palo",
+	"unidad":"lb.",
+	"precio":"0,60",
+	"imagen":"https://www.corpal.com.pe/portal/image/cache/data/semilla/frijol-palo-semilla-1-500x500.jpg"
+},
+{
+	"nombre":"haba",
+	"descripcion":"tierna",
+	"unidad":"lb.",
+	"precio":"0,80",
+	"imagen":"https://estaticos.miarevista.es/media/cache/1140x_thumb/uploads/images/article/5e66b3f35cafe884a735e4ad/vainas-de-habichuelas-1_0.jpg"
+}
+]
+}
